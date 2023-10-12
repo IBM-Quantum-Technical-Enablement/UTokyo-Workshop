@@ -1,0 +1,8 @@
+matplotlib==3.8.0
+numpy==1.26.0
+qiskit==0.44.1
+qiskit_aer==0.12.2
+qiskit_ibm_runtime==0.12.1
+qiskit_terra==0.25.1
+scipy==1.11.3
+sympy==1.12
